@@ -12,6 +12,7 @@ Bibliotecas necessárias
 pip install tensorflow
 pip install scikit-learn
 pip install zeugma
+pip install pandas
 ```
 
 Arquivos
